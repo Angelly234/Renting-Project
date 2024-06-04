@@ -22,7 +22,7 @@
 
           <ul class="site-menu js-clone-nav d-none d-lg-block">
             <li class="active">
-              <a href="index.html">Home</a>
+              <a href="/">Home</a>
             </li>
             <li><a href="{{ route('properties.type', 'Buy') }}">Buy</a></li>
             <li><a href="{{ route('properties.type', 'Rent') }}">Rent</a></li>
